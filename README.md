@@ -17,4 +17,4 @@ npm run dev
 
 ### Low-level idGenerator component diagram
 
-![Component Diagram](documentation/diagrams/componentIdGenerator-v1.png)
+![Component Diagram](documentation/diagrams/componentIdGenerator-v2.png)
